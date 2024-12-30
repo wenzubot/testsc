@@ -59,8 +59,8 @@ Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/BOTCAHX/RTXZY-MD
-cd RTXZY-MD
+git clone https://github.com/wenzubot/testsc
+cd testsc
 npm i
 node index.js
 ```
