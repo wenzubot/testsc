@@ -1,9 +1,9 @@
-global.owner = ['6281573230565']  
-global.mods = ['6285845905294'] 
-global.prems = ['6285845905294']
-global.nameowner = 'LynnZxD'
-global.numberowner = '6281573230565'
-global.nomorown = '6281573230565'
+global.owner = ['6285800652466']  
+global.mods = ['6285800652466'] 
+global.prems = ['6285800652466']
+global.nameowner = 'wenzxd'
+global.numberowner = '6285800652466'
+global.nomorown = '6285800652466'
 global.sgc = 'https://chat.whatsapp.com/'
 global.namebot = '© wenz V9.0.0'
 global.mail = 'onlyak1ra@gmail.com' 
@@ -20,13 +20,13 @@ global.author = 'wenz-md'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.lann = 'Btz-9TPDi'
-global.xzn = 'katz'
-global.lol = 'bc131817e421982d74969fdb'
+global.lann = 'hQKCKtZi'
+global.xzn = 'hQKCKtZi'
+global.lol = 'hQKCKtZi'
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'Btz-9TPDi'
+global.btc = 'hQKCKtZi'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
